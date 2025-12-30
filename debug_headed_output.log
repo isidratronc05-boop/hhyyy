@@ -1,0 +1,44 @@
+
+================================================================================
+AVAILABLE MESSAGE SELECTORS
+================================================================================
+
+✓ div[role="article"]: Found 0 elements
+
+✓ [data-testid="message-item"]: Found 0 elements
+
+✓ div[class*="x1iyjqo2"]: Found 14 elements
+  Sample HTML: <div class="xnz67gz x1iyjqo2 x5yr21d xmz0i5r xlnp5zw"><div class="html-div xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x9f619 x16ye13r x5lhr3w xjbqb8w x78zum5 x15mokao x1ga7v0g x...
+
+✓ div[class*="message"]: Found 0 elements
+
+✓ div[data-testid*="message"]: Found 0 elements
+
+✓ li[role="presentation"]: Found 0 elements
+
+✓ div[class*="x1ey2m1c"]: Found 2 elements
+  Sample HTML: <div class="xgf5ljw xbe7ycp x1npm9xp x5p4dl0 x179w5xb x1c9tyrk xeusxvb x1pahc9y x1ertn4p x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1ey2m1c xtijo5x x10l6tqk" style="border-width: 2px;"><span class="x1c9tyrk...
+
+================================================================================
+CHECKING MESSAGE BUTTONS
+================================================================================
+
+================================================================================
+EMOJI/REACTION PICKER
+================================================================================
+  [aria-label*="❤"]: 0 found
+  button[aria-label*="heart"]: 0 found
+  div[role="option"]: 0 found
+  [data-testid*="emoji"]: 0 found
+  svg[aria-label*="heart"]: 0 found
+
+✅ Debug complete - keep browser open to inspect manually (60s timeout)
+
+================================================================================
+LAST MESSAGE FULL HTML
+================================================================================
+<div class="x1iyjqo2 xh8yej3" data-visualcompletion="ignore-dynamic"><div><div class="x1n2onr6"><span aria-describedby="_r_3_" class="html-span xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j"><div class="x1n2onr6 x6s0dn4 x78zum5"><a class="x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x4gyw5p _a6hd" href="/" role="link" tabindex="0"><div class="x9f619 x3nfvp2 x1obq294 x5a5i1n xde0f50 x15x8krk xr9ek0c xjpr12u xo237n4 x6pnmvc x7nr27j x12dmmrz xz9dl7a xpdmqnj xsag5q8 x1g0dm76 x80pfx3 x159b3zp"><div><div class="html-div xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x9f619 xjbqb8w x78zum5 x15mokao x1ga7v0g x16uus16 xbiv7yw x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1"><div aria-selected="false" class="x9f619 xxk0z11 xii2z7h x11xpdln x19c4wfv xvy4d1p"><svg aria-label="Home" class="x1lliihq x1n2onr6 x5n08af" fill="currentColor" height="24" role="img" viewBox="0 0 24 24" width="24"><title>Home</title><path d="m21.762 8.786-7-6.68C13.266.68 10.734.68 9.238 2.106l-7 6.681A4.017 4.017 0 0 0 1 11.68V20c0 1.654 1.346 3 3 3h5.005a1 1 0 0 0 1-1L10 15c0-1.103.897-2 2-2 1.09 0 1.98.877 2 1.962L13.999 22a1 1 0 0 0 1 1H20c1.654 0 3-1.346 3-3v-8.32a4.021 4.021 0 0 0-1.238-2.894ZM21 20a1 1 0 0 1-1 1h-4.001L16 15c0-2.206-1.794-4-4-4s-4 1.794-4 4l.005 6H4a1 1 0 0 1-1-1v-8.32c0-.543.226-1.07.62-1.447l7-6.68c.747-.714 2.013-.714 2.76 0l7 6.68c.394.376.62.904.62 1.448V20Z"></path></svg></div></div></div></div></a></div></span></div></div><div><span aria-describedby="_r_4_" class="html-span xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x1hl2dhg x16tdsg8 x1vvkbs x4k7w5x x1h
+
+================================================================================
+BUTTONS INSIDE LAST MESSAGE
+================================================================================

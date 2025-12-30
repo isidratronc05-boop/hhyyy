@@ -1,0 +1,12 @@
+🔥 ENGAGEMENT MODE ACTIVATED (3 strategies: hover+wait, keyboard, API)
+📍 Target: https://www.instagram.com/direct/t/1572724884048637/...
+⏳ Connecting...
+  🔍 API: POST https://www.instagram.com/api/graphql
+  🔍 API: POST https://www.instagram.com/api/graphql
+  🔍 API: POST https://www.instagram.com/api/graphql
+  🔍 API: POST https://www.instagram.com/api/graphql
+✅ Connected! Monitoring messages...
+
+usage: engage.py [-h] --thread-url THREAD_URL --storage-state STORAGE_STATE
+                 [--reply-text REPLY_TEXT]
+engage.py: error: the following arguments are required: --thread-url
